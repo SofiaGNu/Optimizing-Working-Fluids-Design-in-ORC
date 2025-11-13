@@ -1,4 +1,4 @@
-# A Novel CAMPD Methodology for Optimizing Working Fluids Design in Organic Rankine Cycles for Waste Heat Valorization
+# Machine Learning-Guided Design of ORC Working Fluids for Waste Heat Recovery
 
 This repository includes the data and models developed to ensure the reproducibility of the results presented in the paper.
 
